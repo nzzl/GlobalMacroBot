@@ -1,0 +1,14 @@
+{
+  "name": "GlobalMacroBot",
+  "description": "",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
